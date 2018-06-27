@@ -17,7 +17,7 @@ Python 3.6 / Tensorflow 1.8
   * [02.TensorFlow Ops.ipynb](https://github.com/thezili-changwook/CS20/blob/master/02.TensorFlow%20Ops.ipynb)   
 ### 03.Basic Models in TensorFlow    
   * [03 _ Lecture slide _ Basic Models in TensorFlow.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/03%20_%20Lecture%20slide%20_%20Basic%20Models%20in%20TensorFlow.pdf)  
-  
+  * [03.01 Basic Models in TensorFlow(MSE) .ipynb](https://github.com/thezili-changwook/CS20/blob/master/03.01%20Basic%20Models%20in%20TensorFlow(MSE)%20.ipynb)     
 ### 04.Eager Execution + word2vec   
   * [04 Eager Execution + word2vec.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/04%20Eager%20Execution%20%2B%20word2vec.pdf)  
   
