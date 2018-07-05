@@ -56,4 +56,4 @@ Python 3.6 / Tensorflow 1.8
   
 
 Author
-ChangWookJun / @thezili-changwook
+ChangWookJun / @changwookjun
