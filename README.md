@@ -12,12 +12,18 @@ Python 3.6 / Tensorflow 1.8
 ### 01.Overview of Tensorflow    
   * [01 _ Lecture slide _ Overview of Tensorflow.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/01%20_%20Lecture%20slide%20_%20Overview%20of%20Tensorflow.pdf)  
   * [01.Overview of Tensorflow.ipynb](https://github.com/thezili-changwook/CS20/blob/master/01.Overview%20of%20Tensorflow.ipynb)    
+  
 ### 02.TensorFlow Operations   
   * [02_Lecture slide_TensorFlow Operations.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/02_Lecture%20slide_TensorFlow%20Operations.pdf)  
   * [02.TensorFlow Ops.ipynb](https://github.com/thezili-changwook/CS20/blob/master/02.TensorFlow%20Ops.ipynb)   
+  
 ### 03.Basic Models in TensorFlow    
   * [03 _ Lecture slide _ Basic Models in TensorFlow.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/03%20_%20Lecture%20slide%20_%20Basic%20Models%20in%20TensorFlow.pdf)  
-  * [03.01 Basic Models in TensorFlow(MSE) .ipynb](https://github.com/thezili-changwook/CS20/blob/master/03.01%20Basic%20Models%20in%20TensorFlow(MSE)%20.ipynb)     
+  * [03.01 Basic Models in TensorFlow (Linear Regression + Data + MSE).ipynb](https://github.com/changwookjun/CS20/blob/master/03.01%20Basic%20Models%20in%20TensorFlow%20(Linear%20Regression%20%2B%20Data%20%2B%20MSE).ipynb) 
+  * [03.02 Basic Models in TensorFlow (Linear Regression + placeholder + MSE) .ipynb](https://github.com/changwookjun/CS20/blob/master/03.01%20Basic%20Models%20in%20TensorFlow%20(Linear%20Regression%20%2B%20Data%20%2B%20MSE).ipynb)  
+  * [03.03 Basic Models in TensorFlow (Logistic Regression + Data + CE) .ipynb](https://github.com/changwookjun/CS20/blob/master/03.03%20Basic%20Models%20in%20TensorFlow%20(Logistic%20Regression%20%2B%20Data%20%2B%20CE)%20.ipynb)  
+  * [03.04 Basic Models in TensorFlow (Logistic Regression + placehold + CE) .ipynb](https://github.com/changwookjun/CS20/blob/master/03.04%20Basic%20Models%20in%20TensorFlow%20(Logistic%20Regression%20%2B%20placehold%20%2B%20CE)%20.ipynb)  
+  
 ### 04.Eager Execution + word2vec   
   * [04 Eager Execution + word2vec.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/04%20Eager%20Execution%20%2B%20word2vec.pdf)  
   
