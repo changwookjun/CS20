@@ -26,10 +26,10 @@ Python 3.6 / Tensorflow 1.8
   
 ### 04.Eager Execution + word2vec   
   * [04 Eager Execution + word2vec.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/04%20Eager%20Execution%20%2B%20word2vec.pdf)  
-  * [04.01 Eager execution.ipynb](https://github.com/changwookjun/CS20/blob/master/03.01%20Basic%20Models%20in%20TensorFlow%20(Linear%20Regression%20%2B%20Data%20%2B%20MSE).ipynb) 
-  * [04.02 Eager execution (Linear Regression).ipynb](https://github.com/changwookjun/CS20/blob/master/03.01%20Basic%20Models%20in%20TensorFlow%20(Linear%20Regression%20%2B%20Data%20%2B%20MSE).ipynb)  
-  * [04.03 Eager execution (Word2Vec).ipynb](https://github.com/changwookjun/CS20/blob/master/03.03%20Basic%20Models%20in%20TensorFlow%20(Logistic%20Regression%20%2B%20Data%20%2B%20CE)%20.ipynb)  
-  * [04.04 Eager execution (Word2Vec Visualize).ipynb](https://github.com/changwookjun/CS20/blob/master/03.04%20Basic%20Models%20in%20TensorFlow%20(Logistic%20Regression%20%2B%20placehold%20%2B%20CE)%20.ipynb)  
+  * [04.01 Eager execution.ipynb](https://github.com/changwookjun/CS20/blob/master/04.01%20Eager%20execution.ipynb) 
+  * [04.02 Eager execution (Linear Regression).ipynb](https://github.com/changwookjun/CS20/blob/master/04.02%20Eager%20execution%20(Linear%20Regression).ipynb)  
+  * [04.03 Eager execution (Word2Vec).ipynb](https://github.com/changwookjun/CS20/blob/master/04.03%20Eager%20execution%20(Word2Vec).ipynb)  
+  * [04.04 Eager execution (Word2Vec Visualize).ipynb](https://github.com/changwookjun/CS20/blob/master/04.04%20Eager%20execution%20(Word2Vec%20Visualize).ipynb)  
 
 ### 05.Managing your experiment  
   * [05_Slide_Managing your experiment.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/05_Slide_Managing%20your%20experiment.pdf)  
