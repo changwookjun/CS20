@@ -33,6 +33,11 @@ Python 3.6 / Tensorflow 1.8
 
 ### 05.Managing your experiment  
   * [05_Slide_Managing your experiment.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/05_Slide_Managing%20your%20experiment.pdf)  
+  * [05.01 Manage Experiments.ipynb](https://github.com/changwookjun/CS20/blob/master/05.01%20Manage%20Experiments.ipynb) 
+  * [05.02 Manage Experiments (Variable Sharing).ipynb](https://github.com/changwookjun/CS20/blob/master/05.02%20Manage%20Experiments%20(Variable%20Sharing).ipynb)  
+  * [05.03 Manage Experiments.ipynb](https://github.com/changwookjun/CS20/blob/master/05.03%20Manage%20Experiments.ipynb)  
+  * [05.04 Manage Experiments (Control Randomization).ipynb](https://github.com/changwookjun/CS20/blob/master/05.04%20Manage%20Experiments%20(Control%20Randomization).ipynb)  
+  
   
 ### 06.Introduction to Computer Vision and convolutional network  
   * [06_Introduction to Computer Vision and convolutional network.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/06_Introduction%20to%20Computer%20Vision%20and%20convolutional%20network.pdf)  
