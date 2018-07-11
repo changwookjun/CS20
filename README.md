@@ -41,6 +41,7 @@ Python 3.6 / Tensorflow 1.8
   
 ### 06.Introduction to Computer Vision and convolutional network  
   * [06_Introduction to Computer Vision and convolutional network.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/06_Introduction%20to%20Computer%20Vision%20and%20convolutional%20network.pdf)  
+  * [06. Introduction to convnets.ipynb](https://github.com/changwookjun/CS20/blob/master/06.%20Introduction%20to%20convnets.ipynb)
   
 ### 07.Covnets in TensorFlow    
   * [07 _ Covnets in TensorFlow.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/07%20_%20Covnets%20in%20TensorFlow.pdf)  
