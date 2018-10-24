@@ -71,5 +71,5 @@ Python 3.6 / Tensorflow 1.8
   * [march9guestlecture.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research/march9guestlecture.pdf)  
   
 
-Author
-ChangWookJun / @changwookjun
+# Author
+ChangWookJun / @changwookjun (changwookjun@gmail.com)
